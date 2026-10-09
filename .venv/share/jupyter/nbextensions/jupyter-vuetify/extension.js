@@ -1,0 +1,1 @@
+define(()=>(()=>{var e={252(e){window.require&&window.require.config({map:{"*":{"jupyter-vuetify":"nbextensions/jupyter-vuetify/index"}}}),e.exports={load_ipython_extension(){}}}};const n={};return function t(r){const o=n[r];if(void 0!==o)return o.exports;const i=n[r]={exports:{}};return e[r](i,i.exports,t),i.exports}(252)})());

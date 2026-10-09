@@ -1,0 +1,20 @@
+# Entorno del proyecto: cambio de cobertura del suelo, Cusco
+# Instalar con: python -m pip install -r requirements.txt
+
+# Notebooks (Jupyter / VS Code)
+ipykernel>=7.4.0
+
+# Datos vectoriales y límites administrativos (notebook 01 y 02)
+geopandas>=1.2.0
+pyogrio>=0.13.0
+shapely>=2.2.0
+pyproj>=3.8.0
+
+# Análisis y gráficos
+pandas>=3.0.6
+numpy>=2.5.3
+matplotlib>=3.11.2
+
+# Google Earth Engine (notebook 02)
+earthengine-api>=1.7.47
+geemap>=0.38.9
