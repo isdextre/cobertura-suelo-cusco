@@ -1,1 +1,0 @@
-define(()=>(()=>{var e={252(e){window.require&&window.require.config({map:{"*":{"jupyter-vue":"nbextensions/jupyter-vue/index"}}}),e.exports={load_ipython_extension(){}}}};const n={};return function r(o){const t=n[o];if(void 0!==t)return t.exports;const i=n[o]={exports:{}};return e[o](i,i.exports,r),i.exports}(252)})());
