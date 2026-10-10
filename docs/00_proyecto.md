@@ -4,7 +4,7 @@
 Gobierno Regional de Cusco.
 
 ## Contexto
-La provincia de Cusco combina ceja de selva, valles interandinos y alta montaña. Se busca medir la pérdida de bosque, la regeneración y la expansión agrícola durante 15 años.
+La provincia de Cusco combina ceja de selva, valles interandinos y alta montaña. Se busca medir la pérdida de bosque y la expansión agrícola durante 15 años. La expansión de bosque también entra en el alcance, pero se incorpora cuando se defina la clase "bosque" (ver `01_alcance.md`).
 
 ## Pregunta principal
 ¿Cuánta cobertura cambió en la provincia de Cusco en 15 años, y con qué exactitud e incertidumbre se estima esa área?
@@ -23,33 +23,31 @@ La provincia de Cusco combina ceja de selva, valles interandinos y alta montaña
 5. Tasas de cambio por periodo.
 6. Visualización de la evolución en 15 años (carrusel o animación).
 
-## Trabajos del proyecto
+## Líneas de trabajo
 
-El proyecto tiene dos trabajos que producen los mismos indicadores, para poder compararlos.
+El proyecto tiene dos líneas que producen los mismos indicadores, para poder compararlos. El detalle está en `01_alcance.md`.
 
-**Trabajo 1: indicadores propios con reglas (método clásico).**
-- Se calculan índices a partir de las bandas satelitales (NDVI, EVI, NBR).
-- Se definen umbrales propios que asignan cada píxel a una clase (bosque, pasto, agrícola, urbano, agua).
-- Se comparan los mapas de años distintos para detectar pérdida, regeneración y expansión agrícola.
-- Entrada: índices y bandas. Salida: mapas y áreas por año.
+**Línea 1: indicadores de referencia y serie de 15 años.**
+- Serie 2010–2025 construida con las fuentes disponibles: Landsat (serie principal), MapBiomas (referencia principal), Sentinel-2 (complemento desde 2019), WorldCover, GEOBOSQUES, SRTM y OpenStreetMap.
+- Los indicadores que publican los productos existentes se usan como métricas de referencia.
 
-**Trabajo 2: modelo de computer vision propio (aprendizaje automático).**
-- Se entrena un modelo (por ejemplo, una red convolucional) con muestras etiquetadas por nosotros.
-- El modelo aprende a clasificar cada píxel directamente a partir de las imágenes satelitales.
-- Entrada: solo imágenes satelitales (no MapBiomas ni WorldCover, para que la comparación no quede sesgada). Salida: mapas y áreas por año.
+**Línea 2: indicadores propios con computer vision.**
+- Modelo entrenado con muestras etiquetadas por nosotros.
+- Entrada: solo imágenes satelitales. MapBiomas y WorldCover no entran al modelo, solo sirven para comparar.
+- Calcula los mismos indicadores de la línea 1.
 
-**Comparación entre trabajos.**
-- Ambos se evalúan con las mismas métricas (matriz de confusión, exactitud global, exactitud del productor y del usuario, intervalos de confianza).
-- Ambos se validan con los mismos datos de verificación independientes.
-- Ambos se comparan contra MapBiomas, ESA WorldCover y GEOBOSQUES.
+**Cierre común.**
+- Comparación de métricas de ambas líneas: matriz de confusión, exactitud global, exactitud del productor y del usuario, e intervalos de confianza.
+- Tasas de cambio por periodo.
+- Página web con la evolución según nuestro modelo.
 
 ## Clases de cobertura
-Bosque, pastos, agrícola, urbano, agua y otras (se definen en `01_alcance.md`).
+Bosque, pastos, agrícola, urbano, agua y otras. La correspondencia con MapBiomas y la definición de bosque están pendientes (ver `01_alcance.md`).
 
-## Transiciones de interés
-- Bosque → agrícola o pastos (pérdida de bosque y expansión agrícola).
-- Pastos o agrícola → bosque (regeneración).
-- Degradación (bosque que sigue siendo bosque pero pierde densidad) se analiza dentro del alcance, usando un indicador adicional.
+## Indicadores y transiciones de interés
+- **Pérdida de bosque** (bosque → no bosque) y **expansión agrícola** (no agrícola → agrícola): prioritarios.
+- **Expansión de bosque** (no bosque → bosque): dentro del alcance, pero su inclusión en el análisis queda pendiente de confirmar.
+- **Degradación** (bosque que sigue siendo bosque pero pierde densidad): no es un indicador separado. Se evalúa al final, a partir de las tasas de cambio.
 - Cualquier otra transición se registra en `tabla_transiciones.csv`.
 
 ## Fuera de alcance

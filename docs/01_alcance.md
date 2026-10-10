@@ -23,7 +23,7 @@
 ## Indicadores
 - **Pérdida de bosque:** prioritario.
 - **Expansión agrícola:** prioritario.
-- **Expansión de bosque:** dentro del alcance. La definición de la clase "bosque" queda pendiente hasta revisar la data.
+- **Expansión de bosque:** queda dentro del alcance, pero su inclusión en el análisis está pendiente de confirmar. La definición de la clase "bosque" también queda pendiente hasta revisar la data.
 - **Degradación:** no es un indicador separado en esta etapa. Se evalúa al final, a partir de las tasas de cambio.
 - **Otras transiciones:** se registran en `tabla_transiciones.csv`.
 
@@ -36,11 +36,18 @@ Bosque, pastos, agrícola, urbano, agua y otras. Pendiente: definir qué clases 
 - Los cambios menores a la unidad mínima se reportan como "no reportable".
 
 ## Resolución de análisis
-- **30 m.** La serie 2010–2018 depende de Landsat, que tiene esa resolución. Sentinel-2 (10 m) se usa desde 2019 y se remuestrea a 30 m para que la serie sea consistente.
+- **Análisis a 30 m.** La serie 2010–2018 depende de Landsat, que tiene esa resolución.
+- **Descarga:** Sentinel-2 y WorldCover se descargan a 10 m, sin remuestrear.
+- **Pendiente:** el remuestreo de Sentinel-2 a 30 m se hace en la integración (notebook 07, todavía no creado) para que la serie sea consistente. Confirmar antes de cerrar la integración.
+
+## Límite provincial
+- **Fuente:** INEI, límites provinciales. Archivo: `data/raw/Provincia/PROVINCIA.gpkg` (capa `PROVINCIA`, 196 provincias, EPSG:4326).
+- Confirmado: el archivo corresponde al INEI, límites provinciales.
+- La columna `fuente` del archivo dice "V Censo Nacional Económico"; se documenta tal cual.
 
 ## Referencias
 - **MapBiomas Perú Colección 4** (1985–2025, 30 m): comparación principal.
-- **GEOBOSQUES 2025** (MINAM): comparación solo en la zona que cubre su producto. Pendiente conseguir valores por píxel (descarga o WCS).
+- **GEOBOSQUES 2025** (MINAM): comparación solo en la zona que cubre su producto. Pendiente conseguir valores por píxel (descarga o WCS). Las imágenes anuales locales están repetidas y hay que volver a descargarlas por año.
 - **ESA WorldCover 2020 y 2021**: comparación puntual. La diferencia de suelo desnudo entre ambas versiones debe revisarse antes de usarlas.
 
 ## Fuera de alcance
@@ -58,4 +65,6 @@ Bosque, pastos, agrícola, urbano, agua y otras. Pendiente: definir qué clases 
 - Decidir si el método de reglas se mantiene, después de elegir el índice.
 - Definición de bosque, después de revisar la data.
 - Mapeo de clases de MapBiomas a las clases del proyecto.
-- Confirmar que hay escenas disponibles para 2010 (el inventario actual empieza en 2011).
+- Confirmar que hay escenas disponibles para 2010 (se revisa en el notebook 03).
+- Confirmar si la expansión de bosque entra en el análisis.
+- Confirmar el remuestreo de Sentinel-2 a 30 m en la integración.
