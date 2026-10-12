@@ -18,3 +18,7 @@ matplotlib>=3.11.2
 # Google Earth Engine (notebook 02)
 earthengine-api>=1.7.47
 geemap>=0.38.9
+
+# Descarga de GeoTIFF y verificación (notebook 06)
+geedim>=1.9.0
+rasterio>=1.4.0
