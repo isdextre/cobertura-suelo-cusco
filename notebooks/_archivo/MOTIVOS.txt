@@ -1,0 +1,15 @@
+Notebooks archivados en la reorganización del 2026-10-22.
+Motivo de cada uno (detalle en notebooks/README.md):
+
+- 02_revision_fuentes.ipynb: Auditaba 7 fuentes, 5 ya descartadas. Resultado escrito en docs/01_datos_fuentes.md
+- 03_viabilidad_anios.ipynb: Contaba escenas sobre el año completo. Lo reemplaza el diagnóstico del notebook 03
+- 05_visor_imagenes.ipynb: Servía para elegir el índice a ojo. Decidido con bibliografía en docs/03_decisiones.md §5
+- 06_MapBiomas_Landsat8_Indicadores.ipynb: Mitad Landsat reemplazada por el notebook 03; mitad MapBiomas por el 02
+- 06_MapBiomas_Landsat8_Indicadores_v1.ipynb: Versión intermedia del 06
+- 06_MapBiomas_Landsat8_Indicadores_v2.ipynb: Versión intermedia del 06
+- 06_MapBiomas_Landsat8_Indicadores_v3.ipynb: Versión intermedia del 06
+- 06_MapBiomas_Landsat8_Indicadores_v4.ipynb: Versión intermedia del 06
+- 06_MapBiomas_Landsat8_Indicadores_v4.html: Export HTML de una versión intermedia
+- 06_MapBiomas_Landsat8_Indicadores_v5.ipynb: Última versión del 06. Compuestos mensuales abandonados al pasar a compuesto anual
+- 07_definir_indicadores.ipynb: Versión intermedia del 07
+- 07_definir_indicadores_v2.ipynb: Decidía qué indicadores de MapBiomas usar. Ya decidido en docs/00_proyecto.md §3
