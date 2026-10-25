@@ -1,0 +1,19 @@
+maxSegments,4
+spikeThreshold,0.9
+vertexCountOvershoot,3
+preventOneYearRecovery,True
+recoveryThreshold,0.25
+pvalThreshold,0.05
+bestModelProportion,0.75
+minObservationsNeeded,6
+indice_primario,negTCW
+indices_ftv,"NDVI,MSAVI,TCG,TCB,BSI,NDMI"
+umbral_magnitud,0.026849
+sigma_mediana,0.013425
+sigmas,2
+duracion_minima,3
+duracion_max_abrupta,2
+anio_ini,2013
+anio_fin,2025
+mascara,"clase 12 estable, sin [11, 82, 51, 33, 31, 34, 92], sin borde"
+fecha_corrida,2026-10-23

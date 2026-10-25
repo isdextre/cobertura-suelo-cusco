@@ -1,0 +1,867 @@
+periodo,origen,destino,de,a,km2
+2013→2025,3,3,Bosque,Bosque,1.6692267002316898
+2013→2025,3,9,Bosque,Plantación forestal,0.006959834289550781
+2013→2025,3,12,Bosque,Formación herbácea,0.09848894108336205
+2013→2025,3,15,Bosque,Pasto (beta),0.006955220031738281
+2013→2025,3,21,Bosque,Mosaico agropecuario,0.02435033666992188
+2013→2025,3,66,Bosque,Matorral y otros arbustales,0.19825391461181618
+2013→2025,3,82,Bosque,Herbazal inundable altoandino,0.0017388536376953126
+2013→2025,9,3,Plantación forestal,Bosque,0.000869800048828125
+2013→2025,9,9,Plantación forestal,Plantación forestal,7.729138295696669
+2013→2025,9,12,Plantación forestal,Formación herbácea,0.056878590452904804
+2013→2025,9,21,Plantación forestal,Mosaico agropecuario,0.607096877990722
+2013→2025,9,24,Plantación forestal,Infraestructura urbana,0.010437380859375
+2013→2025,9,66,Plantación forestal,Matorral y otros arbustales,1.4641100232421882
+2013→2025,9,68,Plantación forestal,Otra área natural sin vegetación,0.0608832593383789
+2013→2025,12,3,Formación herbácea,Bosque,0.02554969356210746
+2013→2025,12,9,Formación herbácea,Plantación forestal,0.05393347210693358
+2013→2025,12,12,Formación herbácea,Formación herbácea,254.92128251724714
+2013→2025,12,15,Formación herbácea,Pasto (beta),1.6463700487567945
+2013→2025,12,21,Formación herbácea,Mosaico agropecuario,0.9229623090925653
+2013→2025,12,24,Formación herbácea,Infraestructura urbana,0.10696650689697264
+2013→2025,12,30,Formación herbácea,Minería,0.2105045437011717
+2013→2025,12,33,Formación herbácea,"Río, lago u océano",0.016525590881347654
+2013→2025,12,66,Formación herbácea,Matorral y otros arbustales,0.20438016308593726
+2013→2025,12,68,Formación herbácea,Otra área natural sin vegetación,0.018264527404785156
+2013→2025,12,82,Formación herbácea,Herbazal inundable altoandino,0.198298905456543
+2013→2025,15,3,Pasto (beta),Bosque,0.013911940979003907
+2013→2025,15,12,Pasto (beta),Formación herbácea,0.6345734337364051
+2013→2025,15,15,Pasto (beta),Pasto (beta),0.9914244835382194
+2013→2025,15,21,Pasto (beta),Mosaico agropecuario,0.01391306170654297
+2013→2025,15,82,Pasto (beta),Herbazal inundable altoandino,0.010436183959960939
+2013→2025,21,3,Mosaico agropecuario,Bosque,0.03478659326171875
+2013→2025,21,9,Mosaico agropecuario,Plantación forestal,0.07674340043729895
+2013→2025,21,12,Mosaico agropecuario,Formación herbácea,1.4844019819970267
+2013→2025,21,15,Mosaico agropecuario,Pasto (beta),0.17739899340820295
+2013→2025,21,21,Mosaico agropecuario,Mosaico agropecuario,140.08904176619976
+2013→2025,21,24,Mosaico agropecuario,Infraestructura urbana,6.398586888430623
+2013→2025,21,33,Mosaico agropecuario,"Río, lago u océano",0.022612381530761717
+2013→2025,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.1313311322021484
+2013→2025,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.011305757568359375
+2013→2025,24,21,Infraestructura urbana,Mosaico agropecuario,0.004349053894042968
+2013→2025,24,24,Infraestructura urbana,Infraestructura urbana,28.212699085923177
+2013→2025,24,33,Infraestructura urbana,"Río, lago u océano",0.02870207312011718
+2013→2025,24,66,Infraestructura urbana,Matorral y otros arbustales,0.0008698729248046875
+2013→2025,33,12,"Río, lago u océano",Formación herbácea,0.0017402380371093749
+2013→2025,33,21,"Río, lago u océano",Mosaico agropecuario,0.15965558081677006
+2013→2025,33,24,"Río, lago u océano",Infraestructura urbana,0.049575242797851554
+2013→2025,33,33,"Río, lago u océano","Río, lago u océano",0.49482558921066067
+2013→2025,33,66,"Río, lago u océano",Matorral y otros arbustales,0.00869696124267578
+2013→2025,66,3,Matorral y otros arbustales,Bosque,0.07652238629150392
+2013→2025,66,9,Matorral y otros arbustales,Plantación forestal,0.9359766481165286
+2013→2025,66,12,Matorral y otros arbustales,Formación herbácea,2.101758689322196
+2013→2025,66,15,Matorral y otros arbustales,Pasto (beta),0.0008696221923828125
+2013→2025,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.388085465349743
+2013→2025,66,24,Matorral y otros arbustales,Infraestructura urbana,0.4514182388916015
+2013→2025,66,30,Matorral y otros arbustales,Minería,0.008698463745117188
+2013→2025,66,66,Matorral y otros arbustales,Matorral y otros arbustales,68.9589169893434
+2013→2025,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.039137807678222655
+2013→2025,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.0017394022216796875
+2013→2025,68,12,Otra área natural sin vegetación,Formación herbácea,0.013915825317382812
+2013→2025,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.05566563903808596
+2013→2025,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.40966663677978565
+2013→2025,68,33,Otra área natural sin vegetación,"Río, lago u océano",0.0026092109985351563
+2013→2025,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.008698033874511719
+2013→2025,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.039406039812156
+2013→2025,82,9,Herbazal inundable altoandino,Plantación forestal,0.07800262877556294
+2013→2025,82,12,Herbazal inundable altoandino,Formación herbácea,1.214713475042366
+2013→2025,82,15,Herbazal inundable altoandino,Pasto (beta),0.7806536842110456
+2013→2025,82,33,Herbazal inundable altoandino,"Río, lago u océano",0.010289623994715075
+2013→2025,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.005529580722464768
+2013→2025,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.2506105432612409
+2013→2025,92,12,Superficie rocosa,Formación herbácea,0.0034793441162109372
+2013→2025,92,30,Superficie rocosa,Minería,0.01043803137207031
+2013→2025,92,66,Superficie rocosa,Matorral y otros arbustales,0.006089082763671876
+2013→2025,92,92,Superficie rocosa,Superficie rocosa,0.018265066162109378
+2013→2014,3,3,Bosque,Bosque,1.931187362750602
+2013→2014,3,12,Bosque,Formación herbácea,0.013043664123535158
+2013→2014,3,15,Bosque,Pasto (beta),0.006086397644042969
+2013→2014,3,21,Bosque,Mosaico agropecuario,0.03478598565673829
+2013→2014,3,66,Bosque,Matorral y otros arbustales,0.019130404296875
+2013→2014,3,82,Bosque,Herbazal inundable altoandino,0.001739986083984375
+2013→2014,9,3,Plantación forestal,Bosque,0.0026093876953125
+2013→2014,9,9,Plantación forestal,Plantación forestal,9.310137425749167
+2013→2014,9,12,Plantación forestal,Formación herbácea,0.03305171337890625
+2013→2014,9,21,Plantación forestal,Mosaico agropecuario,0.11568078979492188
+2013→2014,9,66,Plantación forestal,Matorral y otros arbustales,0.4670650380859377
+2013→2014,9,82,Plantación forestal,Herbazal inundable altoandino,0.0008698729248046875
+2013→2014,12,3,Formación herbácea,Bosque,0.025215870910644526
+2013→2014,12,9,Formación herbácea,Plantación forestal,0.01913656463623047
+2013→2014,12,12,Formación herbácea,Formación herbácea,257.40378639556457
+2013→2014,12,15,Formación herbácea,Pasto (beta),0.31181152088694863
+2013→2014,12,21,Formación herbácea,Mosaico agropecuario,0.283528160949707
+2013→2014,12,66,Formación herbácea,Matorral y otros arbustales,0.08696525012207032
+2013→2014,12,68,Formación herbácea,Otra área natural sin vegetación,0.005218507629394532
+2013→2014,12,82,Formación herbácea,Herbazal inundable altoandino,0.18937600748290995
+2013→2014,15,3,Pasto (beta),Bosque,0.0008694495239257812
+2013→2014,15,12,Pasto (beta),Formación herbácea,0.12112675319177968
+2013→2014,15,15,Pasto (beta),Pasto (beta),1.359663692281086
+2013→2014,15,21,Pasto (beta),Mosaico agropecuario,0.040870122680664055
+2013→2014,15,82,Pasto (beta),Herbazal inundable altoandino,0.14172908624267577
+2013→2014,21,3,Mosaico agropecuario,Bosque,0.0008697347412109375
+2013→2014,21,9,Mosaico agropecuario,Plantación forestal,0.012177851684570312
+2013→2014,21,12,Mosaico agropecuario,Formación herbácea,0.33308498602294956
+2013→2014,21,15,Mosaico agropecuario,Pasto (beta),0.02087439483642578
+2013→2014,21,21,Mosaico agropecuario,Mosaico agropecuario,147.129767199983
+2013→2014,21,24,Mosaico agropecuario,Infraestructura urbana,0.8355111726100539
+2013→2014,21,33,Mosaico agropecuario,"Río, lago u océano",0.022602743137494257
+2013→2014,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.038268858337402345
+2013→2014,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.0330519536743164
+2013→2014,24,21,Infraestructura urbana,Mosaico agropecuario,0.004348748657226563
+2013→2014,24,24,Infraestructura urbana,Infraestructura urbana,28.21617815849398
+2013→2014,24,33,Infraestructura urbana,"Río, lago u océano",0.022613995849609374
+2013→2014,24,68,Infraestructura urbana,Otra área natural sin vegetación,0.003479182861328125
+2013→2014,33,12,"Río, lago u océano",Formación herbácea,0.008700609924316406
+2013→2014,33,21,"Río, lago u océano",Mosaico agropecuario,0.09006208822859219
+2013→2014,33,24,"Río, lago u océano",Infraestructura urbana,0.024352751831054686
+2013→2014,33,33,"Río, lago u océano","Río, lago u océano",0.5905084581416109
+2013→2014,33,66,"Río, lago u océano",Matorral y otros arbustales,0.0008697039794921875
+2013→2014,66,3,Matorral y otros arbustales,Bosque,0.030434606201171874
+2013→2014,66,9,Matorral y otros arbustales,Plantación forestal,0.20355102233886696
+2013→2014,66,12,Matorral y otros arbustales,Formación herbácea,0.1583139127807619
+2013→2014,66,15,Matorral y otros arbustales,Pasto (beta),0.0008696221923828125
+2013→2014,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.10524507806396484
+2013→2014,66,24,Matorral y otros arbustales,Infraestructura urbana,0.02522465838623047
+2013→2014,66,66,Matorral y otros arbustales,Matorral y otros arbustales,72.41600193776168
+2013→2014,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.017394757873535158
+2013→2014,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.006088117553710937
+2013→2014,68,9,Otra área natural sin vegetación,Plantación forestal,0.0034791512451171876
+2013→2014,68,12,Otra área natural sin vegetación,Formación herbácea,0.0052185332031249995
+2013→2014,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.024353791259765622
+2013→2014,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.03479126348876953
+2013→2014,68,33,Otra área natural sin vegetación,"Río, lago u océano",0.0026092109985351563
+2013→2014,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.009567863647460938
+2013→2014,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.4499415719776834
+2013→2014,82,12,Herbazal inundable altoandino,Formación herbácea,0.18559833608901083
+2013→2014,82,15,Herbazal inundable altoandino,Pasto (beta),0.3755214852639598
+2013→2014,82,33,Herbazal inundable altoandino,"Río, lago u océano",0.0008695228881835938
+2013→2014,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,2.777810191766223
+2013→2014,92,92,Superficie rocosa,Superficie rocosa,0.0382715244140625
+2014→2015,3,3,Bosque,Bosque,1.9190118142886878
+2014→2015,3,9,Bosque,Plantación forestal,0.0008697943115234375
+2014→2015,3,12,Bosque,Formación herbácea,0.02956448358154297
+2014→2015,3,15,Bosque,Pasto (beta),0.004347107299804687
+2014→2015,3,21,Bosque,Mosaico agropecuario,0.010435958923339844
+2014→2015,3,66,Bosque,Matorral y otros arbustales,0.026957253417968747
+2014→2015,9,9,Plantación forestal,Plantación forestal,8.857014983610526
+2014→2015,9,12,Plantación forestal,Formación herbácea,0.040008227539062496
+2014→2015,9,21,Plantación forestal,Mosaico agropecuario,0.06958094647216798
+2014→2015,9,66,Plantación forestal,Matorral y otros arbustales,0.571440553283691
+2014→2015,9,68,Plantación forestal,Otra área natural sin vegetación,0.008697583862304688
+2014→2015,9,82,Plantación forestal,Herbazal inundable altoandino,0.0017397208862304687
+2014→2015,12,3,Formación herbácea,Bosque,0.006086500732421875
+2014→2015,12,9,Formación herbácea,Plantación forestal,0.012178666442871092
+2014→2015,12,12,Formación herbácea,Formación herbácea,257.18025455232777
+2014→2015,12,15,Formación herbácea,Pasto (beta),0.687698988307341
+2014→2015,12,21,Formación herbácea,Mosaico agropecuario,0.21220517742919884
+2014→2015,12,24,Formación herbácea,Infraestructura urbana,0.011306037109375002
+2014→2015,12,33,Formación herbácea,"Río, lago u océano",0.007831086059570313
+2014→2015,12,66,Formación herbácea,Matorral y otros arbustales,0.060012162902832025
+2014→2015,12,68,Formación herbácea,Otra área natural sin vegetación,0.004348296813964843
+2014→2015,12,82,Formación herbácea,Herbazal inundable altoandino,0.08000343615722658
+2014→2015,15,12,Pasto (beta),Formación herbácea,0.4896193749147907
+2014→2015,15,15,Pasto (beta),Pasto (beta),1.5773816645816625
+2014→2015,15,21,Pasto (beta),Mosaico agropecuario,0.002608615966796875
+2014→2015,15,82,Pasto (beta),Herbazal inundable altoandino,0.005217457641601563
+2014→2015,21,3,Mosaico agropecuario,Bosque,0.004348676696777343
+2014→2015,21,9,Mosaico agropecuario,Plantación forestal,0.010439122070312501
+2014→2015,21,12,Mosaico agropecuario,Formación herbácea,0.409604678649903
+2014→2015,21,15,Mosaico agropecuario,Pasto (beta),0.030437344726562492
+2014→2015,21,21,Mosaico agropecuario,Mosaico agropecuario,146.52751644202058
+2014→2015,21,24,Mosaico agropecuario,Infraestructura urbana,0.7314932514038095
+2014→2015,21,33,Mosaico agropecuario,"Río, lago u océano",0.03478729333496094
+2014→2015,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.04957581634521484
+2014→2015,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.025221359375
+2014→2015,21,92,Mosaico agropecuario,Superficie rocosa,0.005217980651855469
+2014→2015,24,21,Infraestructura urbana,Mosaico agropecuario,0.007827637817382813
+2014→2015,24,24,Infraestructura urbana,Infraestructura urbana,29.102137815600933
+2014→2015,24,33,Infraestructura urbana,"Río, lago u océano",0.020873771484375
+2014→2015,24,68,Infraestructura urbana,Otra área natural sin vegetación,0.005218779907226563
+2014→2015,33,12,"Río, lago u océano",Formación herbácea,0.00522070556640625
+2014→2015,33,21,"Río, lago u océano",Mosaico agropecuario,0.05452341475590725
+2014→2015,33,24,"Río, lago u océano",Infraestructura urbana,0.03913864978027344
+2014→2015,33,33,"Río, lago u océano","Río, lago u océano",0.5316238835690965
+2014→2015,33,66,"Río, lago u océano",Matorral y otros arbustales,0.00086966552734375
+2014→2015,33,68,"Río, lago u océano",Otra área natural sin vegetación,0.00782761181640625
+2014→2015,66,3,Matorral y otros arbustales,Bosque,0.010512048941578585
+2014→2015,66,9,Matorral y otros arbustales,Plantación forestal,0.14439848919677736
+2014→2015,66,12,Matorral y otros arbustales,Formación herbácea,0.21795961268166925
+2014→2015,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.12002634332275391
+2014→2015,66,24,Matorral y otros arbustales,Infraestructura urbana,0.036532078247070325
+2014→2015,66,33,Matorral y otros arbustales,"Río, lago u océano",0.0017394041137695313
+2014→2015,66,66,Matorral y otros arbustales,Matorral y otros arbustales,72.46582319093339
+2014→2015,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.03565938714599609
+2014→2015,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.005218501647949219
+2014→2015,68,12,Otra área natural sin vegetación,Formación herbácea,0.005218783203125001
+2014→2015,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.027834453979492184
+2014→2015,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.04087992608642579
+2014→2015,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.006087894592285157
+2014→2015,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.42906491615493
+2014→2015,82,9,Herbazal inundable altoandino,Plantación forestal,0.016527278930664063
+2014→2015,82,12,Herbazal inundable altoandino,Formación herbácea,0.2513466071954466
+2014→2015,82,15,Herbazal inundable altoandino,Pasto (beta),0.0800194327392578
+2014→2015,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.000869852783203125
+2014→2015,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,2.7688500904057536
+2014→2015,92,92,Superficie rocosa,Superficie rocosa,0.0382715244140625
+2015→2016,3,3,Bosque,Bosque,1.886045725290813
+2015→2016,3,12,Bosque,Formación herbácea,0.013913989074707032
+2015→2016,3,15,Bosque,Pasto (beta),0.011302423583984372
+2015→2016,3,21,Bosque,Mosaico agropecuario,0.005217534118652344
+2015→2016,3,66,Bosque,Matorral y otros arbustales,0.022609376037597658
+2015→2016,3,82,Bosque,Herbazal inundable altoandino,0.0008699925537109375
+2015→2016,9,9,Plantación forestal,Plantación forestal,8.614999239704954
+2015→2016,9,12,Plantación forestal,Formación herbácea,0.0781864270732805
+2015→2016,9,21,Plantación forestal,Mosaico agropecuario,0.08697751104736329
+2015→2016,9,66,Plantación forestal,Matorral y otros arbustales,0.2609307684936518
+2015→2016,9,82,Plantación forestal,Herbazal inundable altoandino,0.0003343882434321385
+2015→2016,12,3,Formación herbácea,Bosque,0.01772567677743949
+2015→2016,12,9,Formación herbácea,Plantación forestal,0.037406502258300785
+2015→2016,12,12,Formación herbácea,Formación herbácea,256.7533986192205
+2015→2016,12,15,Formación herbácea,Pasto (beta),1.0470566374119197
+2015→2016,12,21,Formación herbácea,Mosaico agropecuario,0.41746251916503985
+2015→2016,12,24,Formación herbácea,Infraestructura urbana,0.01565661547851563
+2015→2016,12,33,Formación herbácea,"Río, lago u océano",0.014790616210937501
+2015→2016,12,66,Formación herbácea,Matorral y otros arbustales,0.13742729736328127
+2015→2016,12,68,Formación herbácea,Otra área natural sin vegetación,0.0034786236572265624
+2015→2016,12,82,Formación herbácea,Herbazal inundable altoandino,0.1802293664423924
+2015→2016,12,92,Formación herbácea,Superficie rocosa,0.004164551678825827
+2015→2016,15,3,Pasto (beta),Bosque,0.004347624755859375
+2015→2016,15,12,Pasto (beta),Formación herbácea,0.05565611267089844
+2015→2016,15,15,Pasto (beta),Pasto (beta),2.292549351697503
+2015→2016,15,21,Pasto (beta),Mosaico agropecuario,0.0034782612915039064
+2015→2016,15,82,Pasto (beta),Herbazal inundable altoandino,0.023853187238865273
+2015→2016,21,3,Mosaico agropecuario,Bosque,0.016523411743164063
+2015→2016,21,9,Mosaico agropecuario,Plantación forestal,0.03392525549316405
+2015→2016,21,12,Mosaico agropecuario,Formación herbácea,0.21742554644775344
+2015→2016,21,15,Mosaico agropecuario,Pasto (beta),0.024350599853515623
+2015→2016,21,21,Mosaico agropecuario,Mosaico agropecuario,146.05058875667936
+2015→2016,21,24,Mosaico agropecuario,Infraestructura urbana,0.6001629125976576
+2015→2016,21,33,Mosaico agropecuario,"Río, lago u océano",0.041746898925781255
+2015→2016,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.041746885070800786
+2015→2016,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.0060887238769531254
+2015→2016,24,21,Infraestructura urbana,Mosaico agropecuario,0.012176953002929689
+2015→2016,24,24,Infraestructura urbana,Infraestructura urbana,29.925827523974107
+2015→2016,24,33,Infraestructura urbana,"Río, lago u océano",0.023483281249999998
+2015→2016,33,12,"Río, lago u océano",Formación herbácea,0.0008695228881835938
+2015→2016,33,21,"Río, lago u océano",Mosaico agropecuario,0.054201667008702895
+2015→2016,33,24,"Río, lago u océano",Infraestructura urbana,0.013916077697753906
+2015→2016,33,33,"Río, lago u océano","Río, lago u océano",0.5261287523880305
+2015→2016,33,66,"Río, lago u océano",Matorral y otros arbustales,0.0017394185791015624
+2015→2016,66,3,Matorral y otros arbustales,Bosque,0.03304356072998047
+2015→2016,66,9,Matorral y otros arbustales,Plantación forestal,0.2750644660053327
+2015→2016,66,12,Matorral y otros arbustales,Formación herbácea,0.24006737719726567
+2015→2016,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.09828250280761719
+2015→2016,66,24,Matorral y otros arbustales,Infraestructura urbana,0.03827187384033203
+2015→2016,66,33,Matorral y otros arbustales,"Río, lago u océano",0.00086966552734375
+2015→2016,66,66,Matorral y otros arbustales,Matorral y otros arbustales,72.48647037525762
+2015→2016,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.005217909301757812
+2015→2016,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.0034787900390625
+2015→2016,66,92,Matorral y otros arbustales,Superficie rocosa,0.0008698690795898437
+2015→2016,68,12,Otra área natural sin vegetación,Formación herbácea,0.008696595581054687
+2015→2016,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.04870487530517579
+2015→2016,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.029573392822265624
+2015→2016,68,33,Otra área natural sin vegetación,"Río, lago u océano",0.00521839990234375
+2015→2016,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.00521864453125
+2015→2016,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.418626026933739
+2015→2016,82,3,Herbazal inundable altoandino,Bosque,0.0008697251586914063
+2015→2016,82,9,Herbazal inundable altoandino,Plantación forestal,0.010438326599121094
+2015→2016,82,12,Herbazal inundable altoandino,Formación herbácea,0.08870844219970704
+2015→2016,82,15,Herbazal inundable altoandino,Pasto (beta),0.07217121881103515
+2015→2016,82,33,Herbazal inundable altoandino,"Río, lago u océano",0.004347622253417969
+2015→2016,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.0008698729248046875
+2015→2016,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,2.6836239987919814
+2015→2016,92,12,Superficie rocosa,Formación herbácea,0.0017393291015625001
+2015→2016,92,92,Superficie rocosa,Superficie rocosa,0.04175017596435547
+2016→2017,3,3,Bosque,Bosque,1.8882451394828033
+2016→2017,3,12,Bosque,Formación herbácea,0.020000284240722657
+2016→2017,3,15,Bosque,Pasto (beta),0.0008694398193359375
+2016→2017,3,21,Bosque,Mosaico agropecuario,0.007827672912597656
+2016→2017,3,66,Bosque,Matorral y otros arbustales,0.03987320289306639
+2016→2017,3,82,Bosque,Herbazal inundable altoandino,0.001739985107421875
+2016→2017,9,3,Plantación forestal,Bosque,0.000869802001953125
+2016→2017,9,9,Plantación forestal,Plantación forestal,8.582159726828458
+2016→2017,9,12,Plantación forestal,Formación herbácea,0.033056196289062506
+2016→2017,9,21,Plantación forestal,Mosaico agropecuario,0.07480062347412109
+2016→2017,9,66,Plantación forestal,Matorral y otros arbustales,0.2765984644165038
+2016→2017,9,68,Plantación forestal,Otra área natural sin vegetación,0.003479106994628906
+2016→2017,9,82,Plantación forestal,Herbazal inundable altoandino,0.0008698700561523438
+2016→2017,12,3,Formación herbácea,Bosque,0.005217711853027344
+2016→2017,12,9,Formación herbácea,Plantación forestal,0.012177609374999999
+2016→2017,12,12,Formación herbácea,Formación herbácea,256.7065815217713
+2016→2017,12,15,Formación herbácea,Pasto (beta),0.40175359851648695
+2016→2017,12,21,Formación herbácea,Mosaico agropecuario,0.12610493591308594
+2016→2017,12,24,Formación herbácea,Infraestructura urbana,0.0008699505004882812
+2016→2017,12,33,Formación herbácea,"Río, lago u océano",0.008701154052734375
+2016→2017,12,66,Formación herbácea,Matorral y otros arbustales,0.09653976550292968
+2016→2017,12,68,Formación herbácea,Otra área natural sin vegetación,0.0017396619873046876
+2016→2017,12,82,Formación herbácea,Herbazal inundable altoandino,0.0989760519844803
+2016→2017,15,3,Pasto (beta),Bosque,0.0026084525146484374
+2016→2017,15,12,Pasto (beta),Formación herbácea,0.120964522644761
+2016→2017,15,15,Pasto (beta),Pasto (beta),3.296033165195107
+2016→2017,15,21,Pasto (beta),Mosaico agropecuario,0.0008695682373046875
+2016→2017,15,66,Pasto (beta),Matorral y otros arbustales,0.0008695093994140625
+2016→2017,15,82,Pasto (beta),Herbazal inundable altoandino,0.02608501336669922
+2016→2017,21,3,Mosaico agropecuario,Bosque,0.0008697203369140626
+2016→2017,21,9,Mosaico agropecuario,Plantación forestal,0.05044865753173828
+2016→2017,21,12,Mosaico agropecuario,Formación herbácea,0.2271814099707506
+2016→2017,21,15,Mosaico agropecuario,Pasto (beta),0.023480181213378908
+2016→2017,21,21,Mosaico agropecuario,Mosaico agropecuario,145.92453099925214
+2016→2017,21,24,Mosaico agropecuario,Infraestructura urbana,0.44968669842529313
+2016→2017,21,33,Mosaico agropecuario,"Río, lago u océano",0.025221680603027343
+2016→2017,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.06523365032958986
+2016→2017,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.010437582763671877
+2016→2017,24,21,Infraestructura urbana,Mosaico agropecuario,0.00608855322265625
+2016→2017,24,24,Infraestructura urbana,Infraestructura urbana,30.60514306797999
+2016→2017,24,33,Infraestructura urbana,"Río, lago u océano",0.009567195678710939
+2016→2017,24,66,Infraestructura urbana,Matorral y otros arbustales,0.0017397247924804686
+2016→2017,24,68,Infraestructura urbana,Otra área natural sin vegetación,0.000869854736328125
+2016→2017,33,21,"Río, lago u océano",Mosaico agropecuario,0.08957861230468746
+2016→2017,33,24,"Río, lago u océano",Infraestructura urbana,0.053054177490234375
+2016→2017,33,33,"Río, lago u océano","Río, lago u océano",0.4704736537552183
+2016→2017,33,66,"Río, lago u océano",Matorral y otros arbustales,0.003478792907714844
+2016→2017,66,3,Matorral y otros arbustales,Bosque,0.008697793090820312
+2016→2017,66,9,Matorral y otros arbustales,Plantación forestal,0.3018103365478514
+2016→2017,66,12,Matorral y otros arbustales,Formación herbácea,0.3243766695676312
+2016→2017,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.08523407733154297
+2016→2017,66,24,Matorral y otros arbustales,Infraestructura urbana,0.04522961865234375
+2016→2017,66,33,Matorral y otros arbustales,"Río, lago u océano",0.0017394185791015624
+2016→2017,66,66,Matorral y otros arbustales,Matorral y otros arbustales,72.16557200464025
+2016→2017,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.02435271984863281
+2016→2017,68,12,Otra área natural sin vegetación,Formación herbácea,0.006088233703613282
+2016→2017,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.018264862792968753
+2016→2017,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.04088012713623047
+2016→2017,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.008697334716796875
+2016→2017,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.3594807254200663
+2016→2017,82,3,Herbazal inundable altoandino,Bosque,0.0008697097778320313
+2016→2017,82,9,Herbazal inundable altoandino,Plantación forestal,0.0026097872314453127
+2016→2017,82,12,Herbazal inundable altoandino,Formación herbácea,0.09475991777104398
+2016→2017,82,15,Herbazal inundable altoandino,Pasto (beta),0.28830871696322535
+2016→2017,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.0017395663452148438
+2016→2017,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,2.504102025220675
+2016→2017,92,12,Superficie rocosa,Formación herbácea,0.007643203229118797
+2016→2017,92,66,Superficie rocosa,Matorral y otros arbustales,0.0026096072998046875
+2016→2017,92,92,Superficie rocosa,Superficie rocosa,0.03653178619384766
+2017→2018,3,3,Bosque,Bosque,1.8307801946671969
+2017→2018,3,9,Bosque,Plantación forestal,0.000869800048828125
+2017→2018,3,12,Bosque,Formación herbácea,0.0417361650390625
+2017→2018,3,15,Bosque,Pasto (beta),0.0034775805053710936
+2017→2018,3,21,Bosque,Mosaico agropecuario,0.0026086118774414063
+2017→2018,3,66,Bosque,Matorral y otros arbustales,0.027905976920094208
+2017→2018,9,3,Plantación forestal,Bosque,0.0008697952270507812
+2017→2018,9,9,Plantación forestal,Plantación forestal,8.606499147360683
+2017→2018,9,12,Plantación forestal,Formación herbácea,0.045233498046875
+2017→2018,9,21,Plantación forestal,Mosaico agropecuario,0.06523663629150392
+2017→2018,9,66,Plantación forestal,Matorral y otros arbustales,0.22614757623290999
+2017→2018,9,82,Plantación forestal,Herbazal inundable altoandino,0.00521946435546875
+2017→2018,12,3,Formación herbácea,Bosque,0.0008694108276367187
+2017→2018,12,9,Formación herbácea,Plantación forestal,0.02609701342773438
+2017→2018,12,12,Formación herbácea,Formación herbácea,256.9198836765759
+2017→2018,12,15,Formación herbácea,Pasto (beta),0.1946009507029811
+2017→2018,12,21,Formación herbácea,Mosaico agropecuario,0.2400363448486328
+2017→2018,12,24,Formación herbácea,Infraestructura urbana,0.0008699581298828125
+2017→2018,12,33,Formación herbácea,"Río, lago u océano",0.006959407653808594
+2017→2018,12,66,Formación herbácea,Matorral y otros arbustales,0.10958766906738286
+2017→2018,12,68,Formación herbácea,Otra área natural sin vegetación,0.006958197448730469
+2017→2018,12,82,Formación herbácea,Herbazal inundable altoandino,0.03478933050537109
+2017→2018,15,12,Pasto (beta),Formación herbácea,0.5037574386414769
+2017→2018,15,15,Pasto (beta),Pasto (beta),3.4440762645065077
+2017→2018,15,21,Pasto (beta),Mosaico agropecuario,0.042609695739746094
+2017→2018,15,82,Pasto (beta),Herbazal inundable altoandino,0.02000170281982422
+2017→2018,21,3,Mosaico agropecuario,Bosque,0.0052181367797851565
+2017→2018,21,9,Mosaico agropecuario,Plantación forestal,0.05305283050537109
+2017→2018,21,12,Mosaico agropecuario,Formación herbácea,0.2504846134033199
+2017→2018,21,15,Mosaico agropecuario,Pasto (beta),0.040869938232421875
+2017→2018,21,21,Mosaico agropecuario,Mosaico agropecuario,145.38889268014876
+2017→2018,21,24,Mosaico agropecuario,Infraestructura urbana,0.42706568743896445
+2017→2018,21,33,Mosaico agropecuario,"Río, lago u océano",0.09191721669682515
+2017→2018,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.06971025951191025
+2017→2018,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.006088542724609376
+2017→2018,24,21,Infraestructura urbana,Mosaico agropecuario,0.006957877075195312
+2017→2018,24,24,Infraestructura urbana,Infraestructura urbana,31.157465108323816
+2017→2018,24,33,Infraestructura urbana,"Río, lago u océano",0.025222093566894532
+2017→2018,24,68,Infraestructura urbana,Otra área natural sin vegetación,0.005218561218261719
+2017→2018,33,12,"Río, lago u océano",Formación herbácea,0.001739624267578125
+2017→2018,33,21,"Río, lago u océano",Mosaico agropecuario,0.03826885705566406
+2017→2018,33,24,"Río, lago u océano",Infraestructura urbana,0.0382687855834961
+2017→2018,33,33,"Río, lago u océano","Río, lago u océano",0.4374258357620542
+2017→2018,66,3,Matorral y otros arbustales,Bosque,0.022611268005371096
+2017→2018,66,9,Matorral y otros arbustales,Plantación forestal,0.5035947753295897
+2017→2018,66,12,Matorral y otros arbustales,Formación herbácea,0.34994986741009837
+2017→2018,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.13046543829345703
+2017→2018,66,24,Matorral y otros arbustales,Infraestructura urbana,0.0365321587524414
+2017→2018,66,33,Matorral y otros arbustales,"Río, lago u océano",0.0034787919921875003
+2017→2018,66,66,Matorral y otros arbustales,Matorral y otros arbustales,71.60414348288451
+2017→2018,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.012175840576171876
+2017→2018,68,12,Otra área natural sin vegetación,Formación herbácea,0.006089633117675781
+2017→2018,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.007826994262695314
+2017→2018,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.01652567907714844
+2017→2018,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.002609220458984375
+2017→2018,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.3673081248341283
+2017→2018,82,3,Herbazal inundable altoandino,Bosque,0.001739985107421875
+2017→2018,82,9,Herbazal inundable altoandino,Plantación forestal,0.003193020499195772
+2017→2018,82,12,Herbazal inundable altoandino,Formación herbácea,0.2551597587069643
+2017→2018,82,15,Herbazal inundable altoandino,Pasto (beta),0.16990596029292074
+2017→2018,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.0008697001342773437
+2017→2018,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,2.200904520994654
+2017→2018,92,66,Superficie rocosa,Matorral y otros arbustales,0.004349344543457032
+2017→2018,92,92,Superficie rocosa,Superficie rocosa,0.03218244165039062
+2018→2019,3,3,Bosque,Bosque,1.8064335616715879
+2018→2019,3,9,Bosque,Plantación forestal,0.004349896789550781
+2018→2019,3,12,Bosque,Formación herbácea,0.02260848120117187
+2018→2019,3,21,Bosque,Mosaico agropecuario,0.005218233337402344
+2018→2019,3,66,Bosque,Matorral y otros arbustales,0.022608625061035156
+2018→2019,3,82,Bosque,Herbazal inundable altoandino,0.0008699925537109375
+2018→2019,9,9,Plantación forestal,Plantación forestal,8.908882998060063
+2018→2019,9,12,Plantación forestal,Formación herbácea,0.013918826782226563
+2018→2019,9,21,Plantación forestal,Mosaico agropecuario,0.05044927374267579
+2018→2019,9,66,Plantación forestal,Matorral y otros arbustales,0.21657584283447268
+2018→2019,9,68,Plantación forestal,Otra área natural sin vegetación,0.0008698757934570313
+2018→2019,9,82,Plantación forestal,Herbazal inundable altoandino,0.0026097699584960938
+2018→2019,12,3,Formación herbácea,Bosque,0.006955639038085938
+2018→2019,12,9,Formación herbácea,Plantación forestal,0.04947872541312423
+2018→2019,12,12,Formación herbácea,Formación herbácea,257.91549381186076
+2018→2019,12,15,Formación herbácea,Pasto (beta),0.07644828175958367
+2018→2019,12,21,Formación herbácea,Mosaico agropecuario,0.11691258275888479
+2018→2019,12,24,Formación herbácea,Infraestructura urbana,0.012174291198730466
+2018→2019,12,33,Formación herbácea,"Río, lago u océano",0.001739624267578125
+2018→2019,12,66,Formación herbácea,Matorral y otros arbustales,0.14873013519287115
+2018→2019,12,68,Formación herbácea,Otra área natural sin vegetación,0.006087679870605468
+2018→2019,12,82,Formación herbácea,Herbazal inundable altoandino,0.040013503845214834
+2018→2019,15,3,Pasto (beta),Bosque,0.006085992858886717
+2018→2019,15,12,Pasto (beta),Formación herbácea,1.2540693783688996
+2018→2019,15,15,Pasto (beta),Pasto (beta),2.525808754225783
+2018→2019,15,21,Pasto (beta),Mosaico agropecuario,0.02696142529296875
+2018→2019,15,66,Pasto (beta),Matorral y otros arbustales,0.0008695084228515625
+2018→2019,15,82,Pasto (beta),Herbazal inundable altoandino,0.039135635070800784
+2018→2019,21,3,Mosaico agropecuario,Bosque,0.02521925994873047
+2018→2019,21,9,Mosaico agropecuario,Plantación forestal,0.04001103472900391
+2018→2019,21,12,Mosaico agropecuario,Formación herbácea,0.5235787234497082
+2018→2019,21,15,Mosaico agropecuario,Pasto (beta),0.026960095947265634
+2018→2019,21,21,Mosaico agropecuario,Mosaico agropecuario,144.82092390463606
+2018→2019,21,24,Mosaico agropecuario,Infraestructura urbana,0.40097451928710975
+2018→2019,21,33,Mosaico agropecuario,"Río, lago u océano",0.016524867065429688
+2018→2019,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.06262302191162111
+2018→2019,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.006087708618164062
+2018→2019,24,21,Infraestructura urbana,Mosaico agropecuario,0.006088251831054688
+2018→2019,24,24,Infraestructura urbana,Infraestructura urbana,31.64106761644143
+2018→2019,24,33,Infraestructura urbana,"Río, lago u océano",0.029571509033203124
+2018→2019,33,12,"Río, lago u océano",Formación herbácea,0.0026097648315429687
+2018→2019,33,21,"Río, lago u océano",Mosaico agropecuario,0.1127003592826095
+2018→2019,33,24,"Río, lago u océano",Infraestructura urbana,0.018264305603027345
+2018→2019,33,33,"Río, lago u océano","Río, lago u océano",0.41490468408203174
+2018→2019,33,66,"Río, lago u océano",Matorral y otros arbustales,0.016524231872558595
+2018→2019,66,3,Matorral y otros arbustales,Bosque,0.014782816345214842
+2018→2019,66,9,Matorral y otros arbustales,Plantación forestal,0.25746314331054676
+2018→2019,66,12,Matorral y otros arbustales,Formación herbácea,0.276600466308593
+2018→2019,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.12698445715332035
+2018→2019,66,24,Matorral y otros arbustales,Infraestructura urbana,0.029573961853027346
+2018→2019,66,66,Matorral y otros arbustales,Matorral y otros arbustales,71.32774105720726
+2018→2019,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.010437486999511721
+2018→2019,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.0017398405761718748
+2018→2019,68,12,Otra área natural sin vegetación,Formación herbácea,0.000869681884765625
+2018→2019,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.01739562725830078
+2018→2019,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.02696378942871094
+2018→2019,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.0017394704589843752
+2018→2019,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.350780697771141
+2018→2019,82,3,Herbazal inundable altoandino,Bosque,0.0017388536376953126
+2018→2019,82,9,Herbazal inundable altoandino,Plantación forestal,0.005220188415527343
+2018→2019,82,12,Herbazal inundable altoandino,Formación herbácea,0.20928327405287808
+2018→2019,82,15,Herbazal inundable altoandino,Pasto (beta),0.07217155297851562
+2018→2019,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.9725011495907074
+2018→2019,92,92,Superficie rocosa,Superficie rocosa,0.03218244165039062
+2019→2020,3,3,Bosque,Bosque,1.7566337902659603
+2019→2020,3,12,Bosque,Formación herbácea,0.028054593305041748
+2019→2020,3,15,Bosque,Pasto (beta),0.0017388990478515625
+2019→2020,3,21,Bosque,Mosaico agropecuario,0.004348252258300781
+2019→2020,3,66,Bosque,Matorral y otros arbustales,0.07044058862304688
+2019→2020,9,9,Plantación forestal,Plantación forestal,8.92183097341213
+2019→2020,9,12,Plantación forestal,Formación herbácea,0.024357240539550785
+2019→2020,9,21,Plantación forestal,Mosaico agropecuario,0.059145707336425775
+2019→2020,9,66,Plantación forestal,Matorral y otros arbustales,0.254852905456543
+2019→2020,9,82,Plantación forestal,Herbazal inundable altoandino,0.005219159973144531
+2019→2020,12,3,Formación herbácea,Bosque,0.0008694929809570312
+2019→2020,12,9,Formación herbácea,Plantación forestal,0.015122035277123544
+2019→2020,12,12,Formación herbácea,Formación herbácea,259.5970682999464
+2019→2020,12,15,Formación herbácea,Pasto (beta),0.1164604302892348
+2019→2020,12,21,Formación herbácea,Mosaico agropecuario,0.1965426204833983
+2019→2020,12,24,Formación herbácea,Infraestructura urbana,0.00173952734375
+2019→2020,12,30,Formación herbácea,Minería,0.05045154577636718
+2019→2020,12,33,Formación herbácea,"Río, lago u océano",0.003480426574707031
+2019→2020,12,66,Formación herbácea,Matorral y otros arbustales,0.14858409268128644
+2019→2020,12,68,Formación herbácea,Otra área natural sin vegetación,0.00782725634765625
+2019→2020,12,82,Formación herbácea,Herbazal inundable altoandino,0.08088668103027345
+2019→2020,15,3,Pasto (beta),Bosque,0.001739038818359375
+2019→2020,15,12,Pasto (beta),Formación herbácea,0.5543214982946061
+2019→2020,15,15,Pasto (beta),Pasto (beta),2.020983317292818
+2019→2020,15,21,Pasto (beta),Mosaico agropecuario,0.023481075805664064
+2019→2020,15,82,Pasto (beta),Herbazal inundable altoandino,0.10086375469970707
+2019→2020,21,3,Mosaico agropecuario,Bosque,0.0017392862548828124
+2019→2020,21,9,Mosaico agropecuario,Plantación forestal,0.03913845367431641
+2019→2020,21,12,Mosaico agropecuario,Formación herbácea,0.22526359973144539
+2019→2020,21,15,Mosaico agropecuario,Pasto (beta),0.008696092956542967
+2019→2020,21,21,Mosaico agropecuario,Mosaico agropecuario,144.2940865310439
+2019→2020,21,24,Mosaico agropecuario,Infraestructura urbana,0.5539679379741594
+2019→2020,21,33,Mosaico agropecuario,"Río, lago u océano",0.07116024429859832
+2019→2020,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.07044768743896485
+2019→2020,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.01913428192138672
+2019→2020,24,21,Infraestructura urbana,Mosaico agropecuario,0.008697325439453125
+2019→2020,24,24,Infraestructura urbana,Infraestructura urbana,32.08901004265029
+2019→2020,24,33,Infraestructura urbana,"Río, lago u océano",0.03131111572265625
+2019→2020,33,9,"Río, lago u océano",Plantación forestal,0.0008697174682617188
+2019→2020,33,12,"Río, lago u océano",Formación herbácea,0.008698995788574219
+2019→2020,33,21,"Río, lago u océano",Mosaico agropecuario,0.03565845104980469
+2019→2020,33,24,"Río, lago u océano",Infraestructura urbana,0.028701538818359372
+2019→2020,33,33,"Río, lago u océano","Río, lago u océano",0.38881198132324246
+2019→2020,66,3,Matorral y otros arbustales,Bosque,0.009442557751464842
+2019→2020,66,9,Matorral y otros arbustales,Plantación forestal,0.16004408050537114
+2019→2020,66,12,Matorral y otros arbustales,Formación herbácea,0.2478834716186518
+2019→2020,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.1053679710597618
+2019→2020,66,24,Matorral y otros arbustales,Infraestructura urbana,0.01913529608154297
+2019→2020,66,30,Matorral y otros arbustales,Minería,0.006958772521972658
+2019→2020,66,33,Matorral y otros arbustales,"Río, lago u océano",0.00956662677001953
+2019→2020,66,66,Matorral y otros arbustales,Matorral y otros arbustales,71.23031557868902
+2019→2020,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.008697537963867186
+2019→2020,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.009566803161621094
+2019→2020,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.008697577880859375
+2019→2020,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.0017395775756835936
+2019→2020,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.354259490434715
+2019→2020,82,3,Herbazal inundable altoandino,Bosque,0.0008699925537109375
+2019→2020,82,12,Herbazal inundable altoandino,Formación herbácea,0.1791367122192383
+2019→2020,82,15,Herbazal inundable altoandino,Pasto (beta),0.04000372595214845
+2019→2020,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.008698170471191407
+2019→2020,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.8281612903988091
+2019→2020,92,30,Superficie rocosa,Minería,0.006088849792480469
+2019→2020,92,92,Superficie rocosa,Superficie rocosa,0.02609359185791016
+2020→2021,3,3,Bosque,Bosque,1.7434675056101994
+2020→2021,3,9,Bosque,Plantación forestal,0.0008697952270507812
+2020→2021,3,12,Bosque,Formación herbácea,0.005217633728027344
+2020→2021,3,15,Bosque,Pasto (beta),0.0017388120117187498
+2020→2021,3,21,Bosque,Mosaico agropecuario,0.005217831970214843
+2020→2021,3,66,Bosque,Matorral y otros arbustales,0.014782580078125001
+2020→2021,9,9,Plantación forestal,Plantación forestal,8.5503291330734
+2020→2021,9,12,Plantación forestal,Formación herbácea,0.006958507202148437
+2020→2021,9,21,Plantación forestal,Mosaico agropecuario,0.1313330114746094
+2020→2021,9,33,Plantación forestal,"Río, lago u océano",0.0008697174682617188
+2020→2021,9,66,Plantación forestal,Matorral y otros arbustales,0.4440354712579466
+2020→2021,9,82,Plantación forestal,Herbazal inundable altoandino,0.003479419860839844
+2020→2021,12,3,Formación herbácea,Bosque,0.015650029541015627
+2020→2021,12,9,Formación herbácea,Plantación forestal,0.018266115051269533
+2020→2021,12,12,Formación herbácea,Formación herbácea,259.9852392642194
+2020→2021,12,15,Formación herbácea,Pasto (beta),0.20887222011575124
+2020→2021,12,21,Formación herbácea,Mosaico agropecuario,0.19132485998535137
+2020→2021,12,24,Formación herbácea,Infraestructura urbana,0.004347851806640625
+2020→2021,12,30,Formación herbácea,Minería,0.0400133930053711
+2020→2021,12,33,Formación herbácea,"Río, lago u océano",0.003480415100097656
+2020→2021,12,66,Formación herbácea,Matorral y otros arbustales,0.3279439971313471
+2020→2021,12,68,Formación herbácea,Otra área natural sin vegetación,0.013915396606445312
+2020→2021,12,82,Formación herbácea,Herbazal inundable altoandino,0.05573086888092639
+2020→2021,15,3,Pasto (beta),Bosque,0.0017387984619140625
+2020→2021,15,12,Pasto (beta),Formación herbácea,0.19920046516903114
+2020→2021,15,15,Pasto (beta),Pasto (beta),1.9591180338778704
+2020→2021,15,21,Pasto (beta),Mosaico agropecuario,0.002608730773925781
+2020→2021,15,82,Pasto (beta),Herbazal inundable altoandino,0.025216437255859377
+2020→2021,21,3,Mosaico agropecuario,Bosque,0.013045915588378905
+2020→2021,21,9,Mosaico agropecuario,Plantación forestal,0.08978299784940832
+2020→2021,21,12,Mosaico agropecuario,Formación herbácea,0.1295862065429687
+2020→2021,21,15,Mosaico agropecuario,Pasto (beta),0.02608648669433594
+2020→2021,21,21,Mosaico agropecuario,Mosaico agropecuario,143.48251094430447
+2020→2021,21,24,Mosaico agropecuario,Infraestructura urbana,0.8802042503805709
+2020→2021,21,33,Mosaico agropecuario,"Río, lago u océano",0.016524312438964836
+2020→2021,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.0817582255859375
+2020→2021,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.017395398254394533
+2020→2021,24,21,Infraestructura urbana,Mosaico agropecuario,0.0034790993041992186
+2020→2021,24,24,Infraestructura urbana,Infraestructura urbana,32.68124779562667
+2020→2021,24,33,Infraestructura urbana,"Río, lago u océano",0.016525025817871096
+2020→2021,30,30,Minería,Minería,0.0634991680908203
+2020→2021,33,12,"Río, lago u océano",Formación herbácea,0.004348795288085938
+2020→2021,33,21,"Río, lago u océano",Mosaico agropecuario,0.08609903308105463
+2020→2021,33,24,"Río, lago u océano",Infraestructura urbana,0.04696611926269531
+2020→2021,33,33,"Río, lago u océano","Río, lago u océano",0.3608285806023094
+2020→2021,33,66,"Río, lago u océano",Matorral y otros arbustales,0.006087866455078124
+2020→2021,66,3,Matorral y otros arbustales,Bosque,0.03094267425010531
+2020→2021,66,9,Matorral y otros arbustales,Plantación forestal,0.22702068920898433
+2020→2021,66,12,Matorral y otros arbustales,Formación herbácea,0.1365588366088868
+2020→2021,66,15,Matorral y otros arbustales,Pasto (beta),0.0017389105834960937
+2020→2021,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.08088694665527345
+2020→2021,66,24,Matorral y otros arbustales,Infraestructura urbana,0.06436239996337892
+2020→2021,66,30,Matorral y otros arbustales,Minería,0.0034793872680664063
+2020→2021,66,33,Matorral y otros arbustales,"Río, lago u océano",0.002609110107421875
+2020→2021,66,66,Matorral y otros arbustales,Matorral y otros arbustales,71.21573599638769
+2020→2021,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.020873795166015625
+2020→2021,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.000869854736328125
+2020→2021,68,9,Otra área natural sin vegetación,Plantación forestal,0.0017397496948242188
+2020→2021,68,12,Otra área natural sin vegetación,Formación herbácea,0.0008696732177734375
+2020→2021,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.007827342468261719
+2020→2021,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.05740575506591798
+2020→2021,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.000869854736328125
+2020→2021,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.321206191484521
+2020→2021,82,3,Herbazal inundable altoandino,Bosque,0.0026099757080078126
+2020→2021,82,9,Herbazal inundable altoandino,Plantación forestal,0.0026096781005859374
+2020→2021,82,12,Herbazal inundable altoandino,Formación herbácea,0.12283161257300285
+2020→2021,82,15,Herbazal inundable altoandino,Pasto (beta),0.11565137384033208
+2020→2021,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.7714282458800086
+2020→2021,92,12,Superficie rocosa,Formación herbácea,0.0026095114135742184
+2020→2021,92,30,Superficie rocosa,Minería,0.0008698355712890625
+2020→2021,92,92,Superficie rocosa,Superficie rocosa,0.022614244873046876
+2021→2022,3,3,Bosque,Bosque,1.7726669020282724
+2021→2022,3,12,Bosque,Formación herbácea,0.0026085015258789064
+2021→2022,3,15,Bosque,Pasto (beta),0.0008694011840820312
+2021→2022,3,21,Bosque,Mosaico agropecuario,0.0034784948120117187
+2021→2022,3,66,Bosque,Matorral y otros arbustales,0.02609161645507812
+2021→2022,3,82,Bosque,Herbazal inundable altoandino,0.001739983154296875
+2021→2022,9,9,Plantación forestal,Plantación forestal,8.514545146243842
+2021→2022,9,12,Plantación forestal,Formación herbácea,0.015655959411621092
+2021→2022,9,21,Plantación forestal,Mosaico agropecuario,0.04783562054443359
+2021→2022,9,66,Plantación forestal,Matorral y otros arbustales,0.31137695477294897
+2021→2022,9,82,Plantación forestal,Herbazal inundable altoandino,0.0012044772326899509
+2021→2022,12,3,Formación herbácea,Bosque,0.004347173095703125
+2021→2022,12,9,Formación herbácea,Plantación forestal,0.011308219482421875
+2021→2022,12,12,Formación herbácea,Formación herbácea,260.00389565549733
+2021→2022,12,15,Formación herbácea,Pasto (beta),0.14337377612496174
+2021→2022,12,21,Formación herbácea,Mosaico agropecuario,0.26437157324218713
+2021→2022,12,24,Formación herbácea,Infraestructura urbana,0.0008695730590820313
+2021→2022,12,30,Formación herbácea,Minería,0.028705192138671873
+2021→2022,12,33,Formación herbácea,"Río, lago u océano",0.004347620361328125
+2021→2022,12,66,Formación herbácea,Matorral y otros arbustales,0.10002110937500003
+2021→2022,12,68,Formación herbácea,Otra área natural sin vegetación,0.0008696867065429687
+2021→2022,12,82,Formación herbácea,Herbazal inundable altoandino,0.03131092687988281
+2021→2022,15,3,Pasto (beta),Bosque,0.005216632751464844
+2021→2022,15,12,Pasto (beta),Formación herbácea,0.2381463528229359
+2021→2022,15,15,Pasto (beta),Pasto (beta),2.03853888231082
+2021→2022,15,21,Pasto (beta),Mosaico agropecuario,0.004347682067871094
+2021→2022,15,82,Pasto (beta),Herbazal inundable altoandino,0.02695628717041016
+2021→2022,21,3,Mosaico agropecuario,Bosque,0.011304575134277342
+2021→2022,21,9,Mosaico agropecuario,Plantación forestal,0.11742212854003914
+2021→2022,21,12,Mosaico agropecuario,Formación herbácea,0.1869896213378904
+2021→2022,21,15,Mosaico agropecuario,Pasto (beta),0.00260878759765625
+2021→2022,21,21,Mosaico agropecuario,Mosaico agropecuario,142.85096248778999
+2021→2022,21,24,Mosaico agropecuario,Infraestructura urbana,0.657557067016601
+2021→2022,21,33,Mosaico agropecuario,"Río, lago u océano",0.09312267941511562
+2021→2022,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.06001402264404296
+2021→2022,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.011306430541992187
+2021→2022,24,21,Infraestructura urbana,Mosaico agropecuario,0.006957745300292969
+2021→2022,24,24,Infraestructura urbana,Infraestructura urbana,33.659736275804846
+2021→2022,24,33,Infraestructura urbana,"Río, lago u océano",0.06610046075439455
+2021→2022,24,66,Infraestructura urbana,Matorral y otros arbustales,0.0017396902465820312
+2021→2022,30,30,Minería,Minería,0.10786178393554696
+2021→2022,33,12,"Río, lago u océano",Formación herbácea,0.008701085388183594
+2021→2022,33,21,"Río, lago u océano",Mosaico agropecuario,0.0278317816772461
+2021→2022,33,24,"Río, lago u océano",Infraestructura urbana,0.015655185424804687
+2021→2022,33,33,"Río, lago u océano","Río, lago u océano",0.34603999509205535
+2021→2022,33,66,"Río, lago u océano",Matorral y otros arbustales,0.002609113952636719
+2021→2022,66,3,Matorral y otros arbustales,Bosque,0.007826167724609374
+2021→2022,66,9,Matorral y otros arbustales,Plantación forestal,0.22527770983886725
+2021→2022,66,12,Matorral y otros arbustales,Formación herbácea,0.2896493260498042
+2021→2022,66,15,Matorral y otros arbustales,Pasto (beta),0.0008695093994140625
+2021→2022,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.07827738531494143
+2021→2022,66,24,Matorral y otros arbustales,Infraestructura urbana,0.07393037823486326
+2021→2022,66,30,Matorral y otros arbustales,Minería,0.0008698460693359375
+2021→2022,66,33,Matorral y otros arbustales,"Río, lago u océano",0.004348504638671875
+2021→2022,66,66,Matorral y otros arbustales,Matorral y otros arbustales,71.3979883821967
+2021→2022,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.012176782165527342
+2021→2022,68,12,Otra área natural sin vegetación,Formación herbácea,0.002609651062011719
+2021→2022,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.010437421081542967
+2021→2022,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.049578135498046884
+2021→2022,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.0017392713623046875
+2021→2022,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.3090263025074695
+2021→2022,82,9,Herbazal inundable altoandino,Plantación forestal,0.006089133300781251
+2021→2022,82,12,Herbazal inundable altoandino,Formación herbácea,0.14438247927892348
+2021→2022,82,15,Herbazal inundable altoandino,Pasto (beta),0.021737464233398434
+2021→2022,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.0017398482666015624
+2021→2022,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.6827759015342552
+2021→2022,92,12,Superficie rocosa,Formación herbácea,0.0034793431396484375
+2021→2022,92,30,Superficie rocosa,Minería,0.0008698355712890625
+2021→2022,92,92,Superficie rocosa,Superficie rocosa,0.018265066162109378
+2022→2023,3,3,Bosque,Bosque,1.7544095308734882
+2022→2023,3,12,Bosque,Formación herbácea,0.0026084486083984377
+2022→2023,3,15,Bosque,Pasto (beta),0.00173898681640625
+2022→2023,3,66,Bosque,Matorral y otros arbustales,0.04260448443603516
+2022→2023,9,9,Plantación forestal,Plantación forestal,8.488458496280467
+2022→2023,9,12,Plantación forestal,Formación herbácea,0.021745226867675778
+2022→2023,9,21,Plantación forestal,Mosaico agropecuario,0.047837130859375
+2022→2023,9,66,Plantación forestal,Matorral y otros arbustales,0.31573160760498054
+2022→2023,9,68,Plantación forestal,Otra área natural sin vegetación,0.0008698757934570313
+2022→2023,12,3,Formación herbácea,Bosque,0.0115333687567019
+2022→2023,12,9,Formación herbácea,Plantación forestal,0.026096217712402347
+2022→2023,12,12,Formación herbácea,Formación herbácea,259.9152413704083
+2022→2023,12,15,Formación herbácea,Pasto (beta),0.45075593946078535
+2022→2023,12,21,Formación herbácea,Mosaico agropecuario,0.2811492476301608
+2022→2023,12,24,Formación herbácea,Infraestructura urbana,0.00869611083984375
+2022→2023,12,30,Formación herbácea,Minería,0.04349276361083986
+2022→2023,12,33,Formación herbácea,"Río, lago u océano",0.006090729736328126
+2022→2023,12,66,Formación herbácea,Matorral y otros arbustales,0.059136593688964845
+2022→2023,12,68,Formación herbácea,Otra área natural sin vegetación,0.005218511291503906
+2022→2023,12,82,Formación herbácea,Herbazal inundable altoandino,0.08870712237548829
+2022→2023,15,3,Pasto (beta),Bosque,0.003477796142578125
+2022→2023,15,12,Pasto (beta),Formación herbácea,0.20271694444029537
+2022→2023,15,15,Pasto (beta),Pasto (beta),1.972239295599489
+2022→2023,15,21,Pasto (beta),Mosaico agropecuario,0.006086901428222657
+2022→2023,15,66,Pasto (beta),Matorral y otros arbustales,0.0017388052368164063
+2022→2023,15,82,Pasto (beta),Herbazal inundable altoandino,0.02173807800292969
+2022→2023,21,3,Mosaico agropecuario,Bosque,0.01304427197265625
+2022→2023,21,9,Mosaico agropecuario,Plantación forestal,0.02261623876953126
+2022→2023,21,12,Mosaico agropecuario,Formación herbácea,0.12175976013183595
+2022→2023,21,15,Mosaico agropecuario,Pasto (beta),0.04869721228027345
+2022→2023,21,21,Mosaico agropecuario,Mosaico agropecuario,142.53694930059498
+2022→2023,21,24,Mosaico agropecuario,Infraestructura urbana,0.3827080587158201
+2022→2023,21,33,Mosaico agropecuario,"Río, lago u océano",0.09392848425292968
+2022→2023,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.06957817449951173
+2022→2023,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.005218690612792969
+2022→2023,24,21,Infraestructura urbana,Mosaico agropecuario,0.0034789956665039062
+2022→2023,24,24,Infraestructura urbana,Infraestructura urbana,34.416449490954406
+2022→2023,24,33,Infraestructura urbana,"Río, lago u océano",0.03739812841796875
+2022→2023,30,30,Minería,Minería,0.13830665771484385
+2022→2023,33,12,"Río, lago u océano",Formación herbácea,0.006090857482910156
+2022→2023,33,21,"Río, lago u océano",Mosaico agropecuario,0.019133129211425782
+2022→2023,33,24,"Río, lago u océano",Infraestructura urbana,0.020004485046386716
+2022→2023,33,33,"Río, lago u océano","Río, lago u océano",0.46873078852084304
+2022→2023,66,3,Matorral y otros arbustales,Bosque,0.01912938751220704
+2022→2023,66,9,Matorral y otros arbustales,Plantación forestal,0.13742889398193361
+2022→2023,66,12,Matorral y otros arbustales,Formación herbácea,0.2483505907944621
+2022→2023,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.06784087268066406
+2022→2023,66,24,Matorral y otros arbustales,Infraestructura urbana,0.02435309246826172
+2022→2023,66,33,Matorral y otros arbustales,"Río, lago u océano",0.004348524780273437
+2022→2023,66,66,Matorral y otros arbustales,Matorral y otros arbustales,71.3931707762654
+2022→2023,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.007828177368164062
+2022→2023,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.0008696934204101563
+2022→2023,68,12,Otra área natural sin vegetación,Formación herbácea,0.011305946472167969
+2022→2023,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.011306746154785156
+2022→2023,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.0948019850463867
+2022→2023,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.002609458557128906
+2022→2023,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.213355065691065
+2022→2023,82,9,Herbazal inundable altoandino,Plantación forestal,0.040014180786132815
+2022→2023,82,12,Herbazal inundable altoandino,Formación herbácea,0.17772239914287488
+2022→2023,82,15,Herbazal inundable altoandino,Pasto (beta),0.026954277404785155
+2022→2023,82,33,Herbazal inundable altoandino,"Río, lago u océano",0.005942339326746325
+2022→2023,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.0034787156982421874
+2022→2023,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.489875663612752
+2022→2023,92,92,Superficie rocosa,Superficie rocosa,0.018265066162109378
+2023→2024,3,3,Bosque,Bosque,1.7278220289866655
+2023→2024,3,9,Bosque,Plantación forestal,0.0017396049194335938
+2023→2024,3,12,Bosque,Formación herbácea,0.03062916912267347
+2023→2024,3,15,Bosque,Pasto (beta),0.0034776250000000002
+2023→2024,3,21,Bosque,Mosaico agropecuario,0.005218066223144531
+2023→2024,3,66,Bosque,Matorral y otros arbustales,0.032707861005715766
+2023→2024,9,9,Plantación forestal,Plantación forestal,8.208404992252142
+2023→2024,9,12,Plantación forestal,Formación herbácea,0.10350838800048828
+2023→2024,9,21,Plantación forestal,Mosaico agropecuario,0.09915102825927735
+2023→2024,9,66,Plantación forestal,Matorral y otros arbustales,0.30354961901855476
+2023→2024,12,3,Formación herbácea,Bosque,0.006086631652832032
+2023→2024,12,9,Formación herbácea,Plantación forestal,0.022616558410644527
+2023→2024,12,12,Formación herbácea,Formación herbácea,258.9551522595349
+2023→2024,12,15,Formación herbácea,Pasto (beta),1.1107919137355498
+2023→2024,12,21,Formación herbácea,Mosaico agropecuario,0.19270567633918292
+2023→2024,12,24,Formación herbácea,Infraestructura urbana,0.008695669067382812
+2023→2024,12,30,Formación herbácea,Minería,0.052190855651855446
+2023→2024,12,33,Formación herbácea,"Río, lago u océano",0.013047717834472655
+2023→2024,12,66,Formación herbácea,Matorral y otros arbustales,0.1426360487060547
+2023→2024,12,68,Formación herbácea,Otra área natural sin vegetación,0.0008696876220703125
+2023→2024,12,82,Formación herbácea,Herbazal inundable altoandino,0.2027485258001589
+2023→2024,15,3,Pasto (beta),Bosque,0.011303511962890625
+2023→2024,15,12,Pasto (beta),Formación herbácea,0.2049232802511776
+2023→2024,15,15,Pasto (beta),Pasto (beta),2.2632896960200335
+2023→2024,15,21,Pasto (beta),Mosaico agropecuario,0.0008695325317382812
+2023→2024,15,82,Pasto (beta),Herbazal inundable altoandino,0.019999690795898434
+2023→2024,21,3,Mosaico agropecuario,Bosque,0.008696434631347656
+2023→2024,21,9,Mosaico agropecuario,Plantación forestal,0.08959303021240234
+2023→2024,21,12,Mosaico agropecuario,Formación herbácea,0.37308016314697234
+2023→2024,21,15,Mosaico agropecuario,Pasto (beta),0.03478328906249999
+2023→2024,21,21,Mosaico agropecuario,Mosaico agropecuario,142.16408571881894
+2023→2024,21,24,Mosaico agropecuario,Infraestructura urbana,0.17308353790283196
+2023→2024,21,33,Mosaico agropecuario,"Río, lago u océano",0.021742849487304684
+2023→2024,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.09393196978759769
+2023→2024,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.014785331176757812
+2023→2024,24,21,Infraestructura urbana,Mosaico agropecuario,0.0017395740966796875
+2023→2024,24,24,Infraestructura urbana,Infraestructura urbana,34.919180944690254
+2023→2024,24,33,Infraestructura urbana,"Río, lago u océano",0.02435312829589844
+2023→2024,24,66,Infraestructura urbana,Matorral y otros arbustales,0.0017395759887695312
+2023→2024,30,12,Minería,Formación herbácea,0.001739696044921875
+2023→2024,30,30,Minería,Minería,0.1774501831665039
+2023→2024,30,66,Minería,Matorral y otros arbustales,0.0026095421142578127
+2023→2024,33,12,"Río, lago u océano",Formación herbácea,0.006090737365722656
+2023→2024,33,21,"Río, lago u océano",Mosaico agropecuario,0.103404776069671
+2023→2024,33,24,"Río, lago u océano",Infraestructura urbana,0.019134158630371094
+2023→2024,33,33,"Río, lago u océano","Río, lago u océano",0.4799818977373911
+2023→2024,33,66,"Río, lago u océano",Matorral y otros arbustales,0.007827425231933593
+2023→2024,66,3,Matorral y otros arbustales,Bosque,0.04695867309570313
+2023→2024,66,9,Matorral y otros arbustales,Plantación forestal,0.3628786728082387
+2023→2024,66,12,Matorral y otros arbustales,Formación herbácea,0.863815290082864
+2023→2024,66,15,Matorral y otros arbustales,Pasto (beta),0.0017394436035156249
+2023→2024,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.10784438470458985
+2023→2024,66,24,Matorral y otros arbustales,Infraestructura urbana,0.016525066162109373
+2023→2024,66,33,Matorral y otros arbustales,"Río, lago u océano",0.0008697039794921875
+2023→2024,66,66,Matorral y otros arbustales,Matorral y otros arbustales,70.47437137489774
+2023→2024,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.012176296875000001
+2023→2024,66,82,Matorral y otros arbustales,Herbazal inundable altoandino,0.0008697097778320313
+2023→2024,68,12,Otra área natural sin vegetación,Formación herbácea,0.0034790049438476562
+2023→2024,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.03304920068359375
+2023→2024,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.012176761962890626
+2023→2024,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.006088556152343751
+2023→2024,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.177696797014308
+2023→2024,82,3,Herbazal inundable altoandino,Bosque,0.0008695016479492188
+2023→2024,82,9,Herbazal inundable altoandino,Plantación forestal,0.01217811932373047
+2023→2024,82,12,Herbazal inundable altoandino,Formación herbácea,0.12456220193780639
+2023→2024,82,15,Herbazal inundable altoandino,Pasto (beta),0.1060857349243165
+2023→2024,82,66,Herbazal inundable altoandino,Matorral y otros arbustales,0.00173985302734375
+2023→2024,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.3557551465504363
+2023→2024,92,92,Superficie rocosa,Superficie rocosa,0.018265066162109378
+2024→2025,3,3,Bosque,Bosque,1.797387966120454
+2024→2025,3,12,Bosque,Formación herbácea,0.0026092052001953124
+2024→2025,3,21,Bosque,Mosaico agropecuario,0.0017396106567382813
+2024→2025,9,3,Plantación forestal,Bosque,0.000869800048828125
+2024→2025,9,9,Plantación forestal,Plantación forestal,8.598944101566108
+2024→2025,9,12,Plantación forestal,Formación herbácea,0.01130763555908203
+2024→2025,9,21,Plantación forestal,Mosaico agropecuario,0.022793050432751226
+2024→2025,9,66,Plantación forestal,Matorral y otros arbustales,0.06349639031982421
+2024→2025,12,3,Formación herbácea,Bosque,0.015652716125488284
+2024→2025,12,9,Formación herbácea,Plantación forestal,0.031315500427246096
+2024→2025,12,12,Formación herbácea,Formación herbácea,260.28929956210345
+2024→2025,12,15,Formación herbácea,Pasto (beta),0.07044108081054687
+2024→2025,12,21,Formación herbácea,Mosaico agropecuario,0.10263359130859387
+2024→2025,12,24,Formación herbácea,Infraestructura urbana,0.03826135876464843
+2024→2025,12,33,Formación herbácea,"Río, lago u océano",0.006087818298339844
+2024→2025,12,66,Formación herbácea,Matorral y otros arbustales,0.09676552401362402
+2024→2025,12,68,Formación herbácea,Otra área natural sin vegetación,0.005218107971191406
+2024→2025,12,82,Formación herbácea,Herbazal inundable altoandino,0.011304930603027345
+2024→2025,15,3,Pasto (beta),Bosque,0.0017390882568359377
+2024→2025,15,12,Pasto (beta),Formación herbácea,0.06173883459472655
+2024→2025,15,15,Pasto (beta),Pasto (beta),3.423645640517295
+2024→2025,15,21,Pasto (beta),Mosaico agropecuario,0.016522835327148436
+2024→2025,15,82,Pasto (beta),Herbazal inundable altoandino,0.016521303649902345
+2024→2025,21,9,Mosaico agropecuario,Plantación forestal,0.026093534179687496
+2024→2025,21,12,Mosaico agropecuario,Formación herbácea,0.08051146894172224
+2024→2025,21,15,Mosaico agropecuario,Pasto (beta),0.011305261962890624
+2024→2025,21,21,Mosaico agropecuario,Mosaico agropecuario,142.06837611930078
+2024→2025,21,24,Mosaico agropecuario,Infraestructura urbana,0.4175003147583011
+2024→2025,21,33,Mosaico agropecuario,"Río, lago u océano",0.04426922379317938
+2024→2025,21,66,Mosaico agropecuario,Matorral y otros arbustales,0.048705201965332026
+2024→2025,21,68,Mosaico agropecuario,Otra área natural sin vegetación,0.011306832824707031
+2024→2025,24,21,Infraestructura urbana,Mosaico agropecuario,0.0026092023315429686
+2024→2025,24,24,Infraestructura urbana,Infraestructura urbana,35.127922910938025
+2024→2025,24,33,Infraestructura urbana,"Río, lago u océano",0.018264025146484376
+2024→2025,30,30,Minería,Minería,0.2296410388183589
+2024→2025,33,12,"Río, lago u océano",Formación herbácea,0.003480413146972656
+2024→2025,33,21,"Río, lago u océano",Mosaico agropecuario,0.015655328063964843
+2024→2025,33,24,"Río, lago u océano",Infraestructura urbana,0.013915826232910156
+2024→2025,33,33,"Río, lago u océano","Río, lago u océano",0.5043343107012581
+2024→2025,33,66,"Río, lago u océano",Matorral y otros arbustales,0.002609419189453125
+2024→2025,66,3,Matorral y otros arbustales,Bosque,0.005217543823242187
+2024→2025,66,9,Matorral y otros arbustales,Plantación forestal,0.21744171374511725
+2024→2025,66,12,Matorral y otros arbustales,Formación herbácea,0.03619278336899702
+2024→2025,66,15,Matorral y otros arbustales,Pasto (beta),0.0017388110351562501
+2024→2025,66,21,Matorral y otros arbustales,Mosaico agropecuario,0.02609301702880859
+2024→2025,66,24,Matorral y otros arbustales,Infraestructura urbana,0.014786620361328126
+2024→2025,66,33,Matorral y otros arbustales,"Río, lago u océano",0.002609091796875
+2024→2025,66,66,Matorral y otros arbustales,Matorral y otros arbustales,70.75877364619905
+2024→2025,66,68,Matorral y otros arbustales,Otra área natural sin vegetación,0.004348598571777345
+2024→2025,68,9,Otra área natural sin vegetación,Plantación forestal,0.0017397525634765625
+2024→2025,68,12,Otra área natural sin vegetación,Formación herbácea,0.0034786495361328125
+2024→2025,68,21,Otra área natural sin vegetación,Mosaico agropecuario,0.008697336303710938
+2024→2025,68,24,Otra área natural sin vegetación,Infraestructura urbana,0.02696294952392578
+2024→2025,68,66,Otra área natural sin vegetación,Matorral y otros arbustales,0.01652557232666016
+2024→2025,68,68,Otra área natural sin vegetación,Otra área natural sin vegetación,3.148123852434229
+2024→2025,82,9,Herbazal inundable altoandino,Plantación forestal,0.005219676940917969
+2024→2025,82,12,Herbazal inundable altoandino,Formación herbácea,0.04261448388671875
+2024→2025,82,15,Herbazal inundable altoandino,Pasto (beta),0.09654125781249998
+2024→2025,82,82,Herbazal inundable altoandino,Herbazal inundable altoandino,1.4349976542841878
+2024→2025,92,92,Superficie rocosa,Superficie rocosa,0.018265066162109378

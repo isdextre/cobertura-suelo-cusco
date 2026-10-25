@@ -1,6 +1,6 @@
 # 02 · Metodología
 
-**Versión:** 1.0 · **Fecha:** 2026-10-22 · **Cliente:** Gobierno Regional de Cusco
+**Versión:** 1.1 · **Fecha:** 2026-10-23 · **Cliente:** Gobierno Regional de Cusco
 **Reemplaza:** `metodologia_general.md` v0.3 (construida sobre pérdida de bosque, umbral de
 GEOBOSQUES y serie Landsat 8 + 9).
 **Documentos relacionados:** `00_proyecto.md` (objetivo e indicadores), `01_datos_fuentes.md`
@@ -40,16 +40,46 @@ bibliográfico están en `03_decisiones.md` con sus citas.
 
 ## Mapa de notebooks
 
-| Paso | Notebook | Estado |
+El flujo son diez notebooks, uno por pregunta. Algunos pasos de esta metodología se reparten en más
+de un notebook: el paso 4 (LandTrendr) se parte en detección y control, y el paso 2 se parte en
+cobertura y fuego.
+
+| Paso de esta guía | Notebook | Estado |
 |---|---|---|
-| 1 | `01_limite_provincial.ipynb` | Ejecutado |
-| 2 | `02_mapbiomas_referencia.ipynb` | Ejecutado (su agrupación de clases pide revisión: ver paso 2) |
-| 3 | `03_landsat8_compuestos_anuales.ipynb` | **Ejecutado 2026-10-22.** Es el notebook de referencia de estilo y documentación |
-| 4 | `04_landtrendr.ipynb` | Por crear |
-| 5 | `05_tipo_de_cambio.ipynb` | Por crear |
-| 6 | `06_validacion.ipynb` | Por crear |
-| 7 | `07_atribucion_climatica.ipynb` | Por crear |
-| 8 | `08_indicadores_entregables.ipynb` | Por crear |
+| 1 · Ámbito y límite | `01_area_de_estudio.ipynb` | Ejecutado |
+| 2 · Referencia MapBiomas | `02_referencia_cobertura.ipynb` | Ejecutado |
+| 2 · Referencia de fuego | `03_referencia_fuego.ipynb` | Por ejecutar |
+| 3 · Serie anual Landsat 8 | `04_serie_anual_landsat.ipynb` | **Ejecutado.** Es el estándar de estilo y documentación |
+| 4 · LandTrendr (detección) | `05_deteccion_cambio.ipynb` | Por ejecutar |
+| 4 · LandTrendr (control) | `06_control_deteccion.ipynb` | Por ejecutar |
+| 5 · Tipo de cambio | `07_tipo_de_cambio.ipynb` | Por crear |
+| 7 · Atribución climática | `08_atribucion_climatica.ipynb` | Por crear |
+| 6 · Validación | `09_validacion.ipynb` | Por crear |
+| 8 · Indicadores y entregables | `10_indicadores_entregables.ipynb` | Por crear |
+
+El detalle de la cadena de insumos, las carpetas de salida y las trampas conocidas de Earth Engine
+está en `notebooks/README.md`.
+
+### Nuevo en el paso 2: MapBiomas Fuego
+
+Una quema produce la misma firma espectral que la degradación, así que sin datos de fuego las dos
+entran juntas en la cifra. El notebook 03 resuelve además un problema de calendario: nuestra ventana
+de compuesto es junio–agosto y los incendios de la provincia se concentran entre septiembre y
+noviembre, así que **una quema de septiembre no se ve hasta el compuesto del año siguiente**. El
+notebook entrega la quema indexada por año de *aparición*, no de ocurrencia, para que el paso 5 no
+tenga que razonar sobre calendarios.
+
+### Nuevo en el paso 4: el umbral de magnitud se deriva, no se elige
+
+El umbral que separa degradación de ruido sale de los datos: se mide la desviación estándar de las
+diferencias año a año de `negTCW` sobre los píxeles que MapBiomas clasifica como pajonal en todos los
+años, y se fija en 2σ. Un píxel estable solo debería variar por ruido, así que esa dispersión es el
+piso por debajo del cual la serie no distingue señal. Da una frase concreta para el informe: *"el
+cambio mínimo detectable con esta serie es X"*.
+
+El supuesto, que hay que declarar: se asume que la población estable de MapBiomas es realmente
+estable. Si no lo fuera, el σ saldría inflado y el umbral demasiado alto — un sesgo hacia
+subestimar, que es el lado seguro para un informe público.
 
 ---
 
